@@ -107,7 +107,7 @@ desc - A description of the coffee
             pic: "images/frappaccino.jpg",
             day: "Thursday",
             alt: "A pic of a Frappaccino",
-            color: "yellow",
+            color: "red",
             desc: `Frappaccino's are so delicious!`
         };
 
@@ -121,7 +121,7 @@ desc - A description of the coffee
             pic: "images/mocha.jpg",
             day: "Friday",
             alt: "A pic of a Mocha",
-            color: "green",
+            color: "blue",
             desc: `Mocha is the best drink ever!`
         };
 
@@ -135,7 +135,7 @@ desc - A description of the coffee
             pic: "images/drip.jpg",
             day: "Saturday",
             alt: "A pic of a Drip",
-            color: "blue",
+            color: "green",
             desc: `A classic drink calls for a Drip!`
         };
 
